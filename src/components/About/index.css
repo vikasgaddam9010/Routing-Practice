@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.page-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 350px;
+  height: 300px;
+}
+.head-text {
+  color: #551e53;
+  font-size: 50px;
+  margin-top: 50px;
+}
+.para {
+  margin-top: 20px;
+  color: #555555;
+}
